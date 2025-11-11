@@ -15,3 +15,7 @@ Sistema em **Python orientado a objetos** que organiza e analisa **perfis profis
 - **Programação Orientada a Objetos**: `Perfil`, `Carreira`
 - **Estruturas**: listas, dicionários (e tuplas nos retornos de score)
 - **Módulos**: `app/models.py`, `app/dataset.py`, `app/recommender.py`, `app/cli.py`
+
+
+## 3) Print de demonstração 
+<img width="538" height="663" alt="image" src="https://github.com/user-attachments/assets/dad0967a-d97a-43a1-a829-7db4e27e6df4" />
