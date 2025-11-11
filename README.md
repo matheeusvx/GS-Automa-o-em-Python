@@ -2,8 +2,6 @@
 
 Sistema em **Python orientado a objetos** que organiza e analisa **perfis profissionais do futuro**, gerando recomendações de **carreiras** e **trilhas de aprendizado** com base em competências (lógica, criatividade, colaboração, adaptabilidade etc.).
 
-> Alinhado à Global Solution 2025.2 — Pensamento Computacional e Automação com Python.  
-> Requisitos e entregáveis: ver PDF (código em módulos/classes, uso de listas/tuplas/dicionários, CLI, README e TXT com link/RM). 
 
 ## 1) Objetivos
 - Cadastrar um **Perfil** (nome + notas 0..10 em competências).
