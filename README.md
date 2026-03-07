@@ -1,4 +1,4 @@
-# Future Skills Lab — Orientador de Carreiras (Python/OOP)
+# Future Skills Lab — Orientador de Carreiras (Python/POO)
 
 Sistema em **Python orientado a objetos** que organiza e analisa **perfis profissionais do futuro**, gerando recomendações de **carreiras** e **trilhas de aprendizado** com base em competências (lógica, criatividade, colaboração, adaptabilidade etc.).
 
